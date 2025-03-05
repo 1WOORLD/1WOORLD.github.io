@@ -1,7 +1,0 @@
-npm install husky --save-dev
-   npx husky init
-      chmod +x .husky/*
-      #!/bin/sh
-         . "$(dirname "$0")/_/husky.sh"
-            npx lint-staged
-            
